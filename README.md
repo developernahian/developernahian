@@ -8,7 +8,7 @@
 </div>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Nahian+%F0%9F%91%8B;A+MERN-Stack+developer." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Nahian+%F0%9F%91%8B;A+MERN-Stack+Developer." />
 </p>
 
 ## Hi 👋, I'm Nahian
