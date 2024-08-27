@@ -31,6 +31,29 @@ Skills: Tailwind / REACT / JavaScript / Node.js / MongoDB
 
 
 <!--
+## About me
+
+<img align="right" width="300" src="https://media.tenor.com/pT_eK7L76OEAAAAC/coding-computer-coding.gif" />
+
+```rust
+fn main() {
+    let name = 'Nahian';
+    let acknowledgements = 'Software Engineer';
+
+    let location = 'Earth';
+    let company = 'Online';
+}
+
+```
+-->
+
+
+
+
+
+
+
+<!--
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
