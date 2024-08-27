@@ -27,7 +27,7 @@ Skills: Tailwind / REACT / JavaScript / Node.js / MongoDB
 - 💬 Ask me about JavaScript and React 
 - 📫 How to reach me: developer.nahian@gmail.com
 
----
+
 
 
 <!--
@@ -44,7 +44,20 @@ Skills: Tailwind / REACT / JavaScript / Node.js / MongoDB
 
 
 
-<h3 align="center" font-size='25px'>Languages and Tools:</h3>
+---
+
+
+
+### Social Media Link:
+
+ [<img src='https://github.com/developernahian/developernahian/blob/main/assets/linkedin.png?raw=true' alt='linkedin' height='40'>](https://www.linkedin.com/in/developernahian/)
+ [<img src='https://github.com/developernahian/developernahian/blob/main/assets/github.png?raw=true' alt='github' height='40'>](https://github.com/developernahian)
+ [<img src='https://github.com/developernahian/developernahian/blob/main/assets/facebook.png?raw=true' alt='facebook' height='40'>](https://www.facebook.com/developernahian) 
+
+
+---
+
+<h3 align="left" font-size='25px'>Languages Frameworks Tools:</h3>
 
 <table align="center">
   <tr>
@@ -95,27 +108,18 @@ Skills: Tailwind / REACT / JavaScript / Node.js / MongoDB
 </table>
 
 
-
-
-
 ---
 
 
 
+<p align="center">
+  <!--
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=developernahian&show_icons=true&theme=vision-friendly-dark">
+  -->
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developernahian&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+</p>
 
 
-
-
-
-
-
-
-
-### Social Media Link:
-
- [<img src='https://github.com/developernahian/developernahian/blob/main/assets/linkedin.png?raw=true' alt='linkedin' height='40'>](https://www.linkedin.com/in/developernahian/)
- [<img src='https://github.com/developernahian/developernahian/blob/main/assets/github.png?raw=true' alt='github' height='40'>](https://github.com/developernahian)
- [<img src='https://github.com/developernahian/developernahian/blob/main/assets/facebook.png?raw=true' alt='facebook' height='40'>](https://www.facebook.com/developernahian) 
 
 
 ---
@@ -149,13 +153,6 @@ Skills: Tailwind / REACT / JavaScript / Node.js / MongoDB
 -->
 
 
-<p align="center">
-  <!--
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=developernahian&show_icons=true&theme=vision-friendly-dark">
-  -->
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developernahian&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
-</p>
-
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developernahian)](https://github.com/anuraghazra/github-readme-stats)
@@ -177,6 +174,8 @@ Skills: Tailwind / REACT / JavaScript / Node.js / MongoDB
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=developernahian" alt="" /></a> </p>
 -->
+
+
 
 
 
