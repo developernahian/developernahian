@@ -7,6 +7,11 @@
   <img src="https://komarev.com/ghpvc/?username=developernahian&style=for-the-badge&color=0e75b6" alt=""/>
 </div>
 
+
+![Views Counter](https://views-counter.vercel.app/badge?pageId=developernahian&leftColor=000000&rightColor=0adb3f&type=total&label=TOTAL%20VIEWS&style=none)
+![Views Counter](https://views-counter.vercel.app/badge?pageId=developernahian&leftColor=000000&rightColor=0adbd8&type=daily&label=TODAY%20VIEWS&style=none)
+![Views Counter](https://views-counter.vercel.app/badge?pageId=developernahian&leftColor=000000&rightColor=781f25&type=unique&label=UNIQUE%20VIEWS&style=none)
+
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Nahian+%F0%9F%91%8B;A+MERN-Stack+Developer." />
 </p>
