@@ -2,7 +2,9 @@
 ![A Passionate Frontend Web Developer](https://github.com/developernahian/developernahian/blob/main/assets/banner1.png)
 
 
-
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=developernahian&style=for-the-badge&color=0e75b6" alt=""/>
+</div>
 
 
 
