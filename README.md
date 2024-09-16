@@ -317,15 +317,20 @@ fn main() {
 ---
 
 
-
 <p align="center">
-  <!--
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=developernahian&show_icons=true&theme=vision-friendly-dark">
-  -->
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developernahian&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developernahian&theme=gotham&layout=compact" width="40%"/> 
 </p>
 
 
+  <!--
+<p align="center">
+
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=developernahian&show_icons=true&theme=vision-friendly-dark">
+
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developernahian&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+</p>
+
+  -->
 
 
 
@@ -387,6 +392,8 @@ fn main() {
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=developernahian" alt="" /></a> </p>
 -->
+
+
 
 
 
