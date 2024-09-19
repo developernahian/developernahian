@@ -1,6 +1,9 @@
 
 ![A Passionate Frontend Web Developer](https://github.com/developernahian/developernahian/blob/main/assets/banner1.png)
 
+<div align="center">
+<a href="https://wakatime.com/@586a1a2f-8847-449e-85a1-7c12b220ec54"><img src="https://wakatime.com/badge/user/586a1a2f-8847-449e-85a1-7c12b220ec54.svg" alt="Total time coded since Aug 31 2024" /></a>
+</div>
 <!--
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=developernahian&style=for-the-badge&color=0e75b6" alt=""/>
