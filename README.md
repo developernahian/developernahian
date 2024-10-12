@@ -417,8 +417,11 @@ fn main() {
 -->
 
 
-![Waves](assets/wave.svg)
 
+
+<!--
+![Waves](assets/wave.svg)
+-->
 
 
 
