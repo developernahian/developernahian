@@ -326,7 +326,7 @@ fn main() {
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developernahian&theme=gotham&layout=compact" width="40%"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developernahian&theme=gotham&layout=compact" width="44%"/> 
 </p>
 
 
