@@ -29,7 +29,7 @@
 ## Hi 👋, I'm Nahian
 ### A Passionate Frontend Web Developer
 
-<img align="right" alt="coding" width="385" src="assets/work.gif">
+<img align="right" alt="coding" width="400" src="assets/work.gif">
 
 Hi, I'm Abdullah Al Nahian, and I've been developing dynamic web apps using the MERN stack. I have expertise in creating excellent user experiences using HTML, CSS, Tailwind CSS, JavaScript, ReactJS, Node.js, and MongoDB.
 
@@ -83,7 +83,7 @@ fn main() {
 
 ## About me
 
-<img align="right" width="300" height="230" src="https://media.tenor.com/pT_eK7L76OEAAAAC/coding-computer-coding.gif" />
+<img align="right" width="300"  src="https://media.tenor.com/pT_eK7L76OEAAAAC/coding-computer-coding.gif" />
 
 ```rust
 function getProfile() {
