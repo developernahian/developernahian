@@ -385,6 +385,14 @@ function getProfile() {
 </div>
 
 
+
+
+ ---
+ 
+<div align="center">
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@nahian/4c8fe712-ab8b-48fb-a848-02290dec4f8c.png" /></a>
+</div>
+
  ---
 
 
