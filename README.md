@@ -457,9 +457,9 @@ function getProfile() {
 
 
 
-<!--
+
 ![Waves](assets/wave.svg)
--->
+
 
 
 
