@@ -394,7 +394,7 @@ function getProfile() {
 
 
 
- 
+ <!--
 
 <div align="center">
     <a href="https://github.com/developernahian">
@@ -409,9 +409,8 @@ function getProfile() {
 </div>
 
  ---
-
-
-
+ 
+-->
 
 
 
