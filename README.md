@@ -406,6 +406,9 @@ function getProfile() {
 
  ---
 
+
+
+<!-- Wakatime 30 days coding time -->
  <!--
 
 <div align="center">
@@ -417,7 +420,14 @@ function getProfile() {
 -->
 
 
+<!-- Wakatime 7 days coding time -->
+<!--
 
+<div align="center">
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@nahian/5140618f-5591-4560-a2ee-ec91c5cf9bfb.png" /></a>
+</div>
+
+-->
 
 
 
