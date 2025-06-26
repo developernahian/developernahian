@@ -413,24 +413,24 @@ function getProfile() {
 
 <!-- Wakatime 30 days coding time -->
 
-
+<!--
 <div align="center">
   <a href="https://wakatime.com"><img src="https://wakatime.com/share/@nahian/2aba301f-7410-4fa5-bf97-9589f21f17b9.png" /></a>
 </div>
 
  ---
  
-
+-->
 
 
 <!-- Wakatime 7 days coding time -->
-<!--
+
 
 <div align="center">
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@nahian/5140618f-5591-4560-a2ee-ec91c5cf9bfb.png" /></a>
 </div>
 
--->
+
 
 
 
